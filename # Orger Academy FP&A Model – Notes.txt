@@ -1,0 +1,32 @@
+# Orger Academy FP&A Model – Notes & Formulas
+
+This file explains the key formulas and logic used in the FP&A model.
+
+## 1. P&L Sheet
+
+Revenue = Number of Customers × Price per Customer
+Gross Profit = Revenue - Total Staff Cost
+Operating Expenses = Rent (Annual) + Marketing
+Operating Profit = Gross Profit - Operating Expenses
+ROI = Operating Profit / Capital Investment
+Payback Period = Investment/Operating Profit
+
+## 2. Revenue Sheet
+
+- Revenue is calculated monthly and summed for Year 1.
+- Forecast assumptions are based on average student strength and pricing per location.
+
+## 3. Customer Acquisition
+
+- Admissions increase modeled monthly.
+- Target Market = Capturable Market × Conversion Rate.
+
+## 4. Expense Sheets
+
+- Labor, marketing, and operational costs are broken down per month.
+- Costs are annualized in the P&L sheet for clarity.
+
+## 5. CapEx & Capital
+
+- Furniture, decor, and initial investments are listed in the Capital sheet.
+- CapEx totals feed into ROI and Payback calculations.
